@@ -18,3 +18,13 @@ The data has 21,525 entries and 12 colums. The columns are:
 10. `debt` - is the customers have debt or not?
 11. `total_income` - the amount of their income
 12. `purpose` - the reason why they take the loan
+
+## Goals:
+1. Pre-process the datasets (fill the missing values, etc)
+2. Determine the factors that increase the ability to pay debt on time
+
+## Libraries:
+1. Pandas
+2. Matplotlib.pyplot
+3. Seaborn
+4. Numpy
