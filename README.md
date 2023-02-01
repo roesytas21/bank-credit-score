@@ -3,7 +3,7 @@ I joined practicum bootcamp as Data Analysis and this is one of my project. This
 
 This report will affect the credit assessment for prospective of the bank to the customers as one of the factors to evaluate the ability of prospective them to repay their loans.
 
-**Data Exploration**
+**Description of Dataset**
 
 The data has 21,525 entries and 12 colums. The columns are:
 1. `children` - the number of children in the family
